@@ -1,0 +1,17 @@
+{
+  "name": "autotests.petstore",
+  "version": "1.0.0",
+  "description": "Autotests for [petstore's API](https://petstore.swagger.io/)",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "chance": "^1.1.11",
+    "jest": "^29.6.4",
+    "supertest": "^6.3.3"
+  }
+}
